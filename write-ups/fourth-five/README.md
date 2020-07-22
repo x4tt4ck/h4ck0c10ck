@@ -440,7 +440,7 @@ $ python2
 
 **Флаг**: `csictf{gr34t_m1nds_th1nk_4l1ke}`
 
-# Quick Math
+# 5. Quick Math
 ```
 Ben has encrypted a message with the same value of 'e' for 3 public moduli and got the cipher texts.
 n1 = 86812553978993 n2 = 81744303091421 n3 = 83695120256591
